@@ -19,3 +19,6 @@ At the moment, we can offer support for our solutions for the following platform
 * MacOS
 * Web (Wasm)
 * Windows 
+
+## Support us 
+You can support us or our projects on our [Patreon](https://www.patreon.com/QuasarApp) page.
