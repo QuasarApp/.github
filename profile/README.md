@@ -1,6 +1,6 @@
 # QuasarApp group 
 
-![Banner](./banner.jpg)
+![Banner](https://github.com/QuasarApp/.github/blob/main/profile/banner.jpg)
 
 ## About Us 
 
