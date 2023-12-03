@@ -6,7 +6,7 @@
 
 The **QuasarApp** is developing open source mobile and desktop applications. 
 Our company has been created on 2017 year and have experience of development mobile and desktop applications and games.
-During our existence, we have accumulated more than 40 software components and ready-made solutions for the most diverse tasks.
+During our existence, we have accumulated more than 60 software components and ready-made solutions for the most diverse tasks.
 This approach allows us now to create final products very fast. If you have an idea for the application, contact us.
 
 ## Supported platforms
