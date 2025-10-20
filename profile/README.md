@@ -40,4 +40,4 @@ Our solutions are fully cross-platform. We offer comprehensive support for the f
 
 ## Support Us
 
-You can support us and our open-source efforts on our [Patreon](https://www.patreon.com/QuasarApp) page. Your contribution helps us advance open-source development and fuel ambitious projects like **Ecliptica**.
+You can support us and our open-source efforts on our [Patreon](https://www.patreon.com/c/QuasarAppGroup) page. Your contribution helps us advance open-source development and fuel ambitious projects like **Ecliptica**.
