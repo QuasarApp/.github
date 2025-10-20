@@ -10,9 +10,9 @@
 
 Established in **2017**, we possess extensive experience in developing applications and games. Our core strength lies in efficiency: we have accumulated **over 60 reusable software components** and ready-made solutions, enabling us to deliver final products at **unprecedented speed**.
 
-### Featured Project: Ecliptica
+### Biggest Project: Ecliptica
 
-We are currently working on our most ambitious title yet: **Ecliptica**, the **first major open-world game** built using the **Qt Quick 3D** engine. This project showcases our deep expertise in leveraging cutting-edge technology for high-performance, cross-platform solutions.
+We are currently working on our most ambitious title yet: **Ecliptica**, the **first major open-world game** built using the **Qt Quick 3D** engine. This is our way to make something new, and unlike other games!
 ### Find out more about Ecliptica:
 
 * <img alt="Steam Logo" src="https://cdn.simpleicons.org/steam" width="24" height="24"> [Ecliptica on Steam](https://store.steampowered.com/app/3723390/Ecliptica/)
